@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					1AFD57201E5E35DF004C0587 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = VJ2WCUSJ8W;
 						ProvisioningStyle = Automatic;
 					};
 					1AFD57341E5E35DF004C0587 = {
@@ -412,11 +413,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VJ2WCUSJ8W;
 				INFOPLIST_FILE = Zones/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = comstudio10works.Zones;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -424,11 +427,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VJ2WCUSJ8W;
 				INFOPLIST_FILE = Zones/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = comstudio10works.Zones;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -505,6 +510,7 @@
 				1AFD574B1E5E35DF004C0587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AFD574C1E5E35DF004C0587 /* Build configuration list for PBXNativeTarget "ZonesTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				1AFD574E1E5E35DF004C0587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AFD574F1E5E35DF004C0587 /* Build configuration list for PBXNativeTarget "ZonesUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				1AFD57511E5E35DF004C0587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
